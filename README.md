@@ -9,7 +9,7 @@ Technologies:
 - Hbase
 - PySpark
 
-Weather data downloaded by REST API:
+Weather data downloaded with REST API:
 
 ![image](https://github.com/user-attachments/assets/f8af77fd-9926-4e32-bd78-5cee47731491)
 
